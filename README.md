@@ -25,5 +25,5 @@ This contains SparkML codes
 
 This includes a ML project based on the following competition
 
-[United Nations Millennium Development Goals] (https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/)
+[Competition] (https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/)
 
